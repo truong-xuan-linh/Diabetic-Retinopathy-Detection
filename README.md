@@ -1,4 +1,4 @@
-#**Diabetic-Retinopathy-Detection**
+# **Diabetic-Retinopathy-Detection**
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Xử lý ảnh và ứng dụng và nhập môn thị giác máy tính
@@ -8,7 +8,7 @@
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
-* ThS. **Mai Tiến Dũng** *dungmt@uit.edu.vn*
+* TS. **Mai Tiến Dũng** *dungmt@uit.edu.vn*
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
