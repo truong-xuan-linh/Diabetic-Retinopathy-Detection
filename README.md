@@ -3,7 +3,7 @@
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Xử lý ảnh và ứng dụng và nhập môn thị giác máy tính
 * **Mã môn học**: CS406 và CS231
-* **Lớp học**: CS406 và CS231
+* **Lớp học**: CS406.M11 và CS231.M11
 * **Năm học**: 2020-2021
 
 ## GIẢNG VIÊN HƯỚNG DẪN
