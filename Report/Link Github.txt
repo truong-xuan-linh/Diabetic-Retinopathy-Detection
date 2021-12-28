@@ -1,0 +1,6 @@
+Thành viên nhóm:
+	Trương Xuân Linh - 19521759
+	Nguyễn Minh Trí - 19522389
+
+Link github chứa code và data của nhóm:
+	https://github.com/truong-xuan-linh/Diabetic-Retinopathy-Detection
